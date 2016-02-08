@@ -1,0 +1,27 @@
+name: InfiniteKitPvP
+main: com.infinity.kitpvp.main.Main
+version: 1.0
+author: xXInfinityXx
+description: KitPvP plugin.
+commands:
+  kit:
+    description: Used to choose a kit.
+    usage: /<command> 
+  ranks:
+    description: Lists all ranks.
+    usage: /<command> 
+  kills:
+    description: Tells you how many kills you have
+    usage: /<command> 
+  hub:
+    description: Transports you to the lobby server.
+    usage: /<command> 
+  help:
+    description: Help command.
+    usage: /<command> 
+  ?:
+    description: Command pointing to /help command.
+    usage: /<command>
+  rating:
+    description: Used to determine your Ranked Rating.
+    usage: /<command>  
